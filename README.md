@@ -12,7 +12,11 @@ By using this script, that creates an image in HTML5 canvas element, you can:
 
 ## Screenshots
 
+### Energy Efficiency Rating
+
 ![Energy Efficiency Rating](https://raw.github.com/sandraf/jquery.dpe-plugin.js/master/examples/dpe-energy.png?raw=true "Energy Efficiency Rating")
+
+### Environmental Impact Rating
 
 ![Environmental Impact Rating](https://raw.github.com/sandraf/jquery.dpe-plugin.js/master/examples/dpe-climate.png?raw=true "Environmental Impact Rating")
 
